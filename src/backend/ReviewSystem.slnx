@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ReviewSystem.API/ReviewSystem.API.csproj" />
+    <Project Path="src/ReviewSystem.Application/ReviewSystem.Application.csproj" />
+    <Project Path="src/ReviewSystem.Domain/ReviewSystem.Domain.csproj" />
+    <Project Path="src/ReviewSystem.Infrastructure/ReviewSystem.Infrastructure.csproj" />
+    <Project Path="src/ReviewSystem.Shared/ReviewSystem.Shared.csproj" />
+  </Folder>
+</Solution>
